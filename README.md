@@ -19,10 +19,11 @@ III. Supported Software Version
     Centreon 3.4.6     
     Centreon 2.3.8      
     
-IV.Software Requirements
+IV.Prerequisites
 
     iBMC V200R002C50 or later    
     HMM V100R001C10SPC248 or later
+    centreon-plugins
     
 V. Supported Device
     
