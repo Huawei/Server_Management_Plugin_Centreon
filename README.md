@@ -21,9 +21,10 @@ III. Supported Software Version
     
 IV.Prerequisites
 
-    iBMC V200R002C50 or later    
-    HMM V100R001C10SPC248 or later
     centreon-plugins
+    iBMC: 2.50 or later    
+    HMM: 6.58 or later
+    
     
 V. Supported Device
     
