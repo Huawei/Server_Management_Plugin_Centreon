@@ -794,7 +794,7 @@
 				"Get or set the NTP server-ip.
 				settable format:
 				prefer-server-ip,server-ip
-				for example:172.172.1.0,172.172.1.0"
+				for example:192.168.1.0,192.168.1.0"
 			::= { smm 66 }
 		
  		smmNTPSyncinterval OBJECT-TYPE
@@ -895,7 +895,7 @@
 				"Get or set the DNS server-ip.
 				settable format:
 				maindnsserverip,bakdnsserverip
-				for example:172.172.1.0,172.172.2.0"
+				for example:192.168.1.0,192.168.2.0"
 			::= { smm 77 }
 
 		
@@ -69644,3 +69644,4 @@
 --
 -- HWSMM-MIB.my
 --
+

@@ -16663,7 +16663,7 @@ HUAWEI-SERVER-IBMC-MIB DEFINITIONS ::= BEGIN
 				 	 The directory and filename are those on the destination server.
 				 Example URLs are as follows: 
 				 	 download;0;https://root:test1234@192.168.2.13:443/data/display0.ini
-				 	 upload;1;sftp://root:test1234@[2001::178]/home/options0.ini
+				 	 upload;1;sftp://root:test1234@[FC00::178]/home/options0.ini
 				 The URL can contain only letters, digits, and special characters. The directory or file name cannot contain @."
 			::= { fileTransfer 1 }                                                                                                                           
 	
